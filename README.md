@@ -1,5 +1,7 @@
 # FROM asaaki/elixir-pure-alpine
 
+[![docker hub](https://img.shields.io/badge/docker-image-blue.svg?style=flat-square)](https://registry.hub.docker.com/u/asaaki/elixir-pure-alpine/)
+
 Docker image for pure Erlang/Elixir projects build on a minimal Alpine Linux (base: gliderlabs/alpine)
 
 More info about the base: <https://github.com/gliderlabs/docker-alpine>
