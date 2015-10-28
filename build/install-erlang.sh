@@ -4,7 +4,7 @@ set -e
 echo "Installing Erlang ..."
 
 ERLANG=erlang
-OTP_VERSION=17.4
+OTP_VERSION=18.1
 OTP_PACKAGE=otp_src_$OTP_VERSION
 OTP_ARCHIVE=$OTP_PACKAGE.tar.gz
 OTP_DOWNLOAD=http://www.erlang.org/download/$OTP_ARCHIVE
