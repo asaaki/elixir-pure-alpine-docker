@@ -1,3 +1,11 @@
+----
+
+**Outdated!**
+
+**Please consider [mix-edib (edib-tool)](https://github.com/edib-tool/mix-edib) instead.**
+
+---
+
 # FROM asaaki/elixir-pure-alpine
 
 [![docker hub](https://img.shields.io/badge/docker-image-blue.svg?style=flat-square)](https://registry.hub.docker.com/u/asaaki/elixir-pure-alpine/)
